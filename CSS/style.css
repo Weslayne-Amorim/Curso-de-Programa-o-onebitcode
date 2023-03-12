@@ -1,0 +1,26 @@
+h1 {
+  color: blueviolet;
+  font-size: 50px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: yellow;
+}
+.moon {
+  color: aliceblue;
+}
+
+.colorPrimari {
+  color: red;
+}
+body {
+  background-image: url(https://aeromagazine.uol.com.br/media/_versions/boeing-starliner_widelg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.big-text {
+  font-size: 50px;
+}
+#europa-test {
+  font-size: 10px;
+  color: red;
+}
